@@ -162,7 +162,7 @@ export default function Portfolio() {
             <div className="flex justify-center animate-fade-in">
               <div className="relative">
                 <img
-                  src="..\src\assets\image.jpg"
+                  src="..\public\image.jpg"
                   alt="Profile"
                   className="w-80 h-80 rounded-full object-cover shadow-lg "
                 />

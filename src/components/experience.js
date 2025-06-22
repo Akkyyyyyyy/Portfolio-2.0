@@ -4,7 +4,6 @@ export const experience = [
       company: "Scholarthi",
       duration: "Dec 2024 - May 2025",
       description:
-        "Provided customer service, managed inventory, and achieved sales targets. Developed strong communication and problem-solving skills.",
-      type: "non-tech",
+        "I have experience working as a Scholarship Executive, where I handled student application processing, document verification, and guided applicants through the scholarship process."
     },
   ]

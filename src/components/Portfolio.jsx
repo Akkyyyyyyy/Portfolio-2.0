@@ -164,7 +164,7 @@ export default function Portfolio() {
                 <img
                   src="..\src\assets\image.jpg"
                   alt="Profile"
-                  className="w-64 h-64 rounded-full object-cover shadow-lg "
+                  className="w-80 h-80 rounded-full object-cover shadow-lg "
                 />
                 <div className="absolute inset-0 rounded-full  from-black/70  to-transparent"></div>
                 
@@ -215,7 +215,7 @@ export default function Portfolio() {
       <section id="projects" className="py-20 px-4">
         <div className="container mx-auto max-w-6xl">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Featured Projects</h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-8">
+          <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-16">
             {projects.map((project, index) => (
               <Card
                 key={index}
